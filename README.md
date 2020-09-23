@@ -17,7 +17,7 @@ To access the PeachSwap Interface, visit [peachswap.com](https://peachswap.com) 
 ## Listing a token
 
 Please see the
-[@peachswap/default-token-list](https://github.com/peachswap/default-token-list)
+[@peachswapprotocol/default-token-list](https://github.com/peachswapprotocol/default-token-list)
 repository.
 
 ## Development
