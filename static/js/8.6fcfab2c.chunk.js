@@ -1,0 +1,2 @@
+(this["webpackJsonp@peachswap/interface"]=this["webpackJsonp@peachswap/interface"]||[]).push([[8],{589:function(n,c){},590:function(n,c){},616:function(n,c){},617:function(n,c){},623:function(n,c){},677:function(n,c){}}]);
+//# sourceMappingURL=8.6fcfab2c.chunk.js.map
