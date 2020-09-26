@@ -1,18 +1,18 @@
 # PeachSwap Interface
 
-[![Tests](https://github.com/peachswap/peachswap-interface/workflows/Tests/badge.svg)](https://github.com/peachswap/peachswap-interface/actions?query=workflow%3ATests)
+[![Tests](https://github.com/peachswapprotocol/peachswap-interface/workflows/Tests/badge.svg)](https://github.com/peachswapprotocol/peachswap-interface/actions?query=workflow%3ATests)
 [![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
 An open source interface for PeachSwap -- a protocol for decentralized exchange of Binance Smart Chain BEP20 tokens.
 
-- Website: [peachswap.com](https://peachswap.com/)
+- Website: [peachswap.org](https://peachswap.org/)
 - Docs: [uniswap.org/docs/](https://uniswap.org/docs/)
 - Twitter: [@PeachSwap](https://twitter.com/PeachSwap)
 
 
 ## Accessing the PeachSwap Interface
 
-To access the PeachSwap Interface, visit [peachswap.com](https://peachswap.com) which is hosted directly on gh-pages branch.
+To access the PeachSwap Interface, visit [peachswap.org](https://peachswap.org) which is hosted directly on gh-pages branch.
 
 ## Listing a token
 
@@ -43,7 +43,7 @@ To have the interface default to a different network when a wallet is not connec
 3. Change `REACT_APP_NETWORK_URL` to e.g. `"https://{YOUR_NETWORK_ID}.infura.io/v3/{YOUR_INFURA_KEY}"`
 
 Note that the interface only works on BSC testnets where both
-[PeachSwap Factory & Router Contract](https://github.com/peachswap/contracts/tree/master/contracts) and
+[PeachSwap Factory & Router Contract](https://github.com/peachswapprotocol/contracts/tree/master/contracts) and
 [multicall](https://github.com/makerdao/multicall) are deployed.
 The interface will not work on other networks.
 
